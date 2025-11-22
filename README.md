@@ -42,6 +42,3 @@ sudo systemctl status nginx    # ou apache2/httpd conforme o script escolher
 ```bash
 curl http://localhost:80
 ```
-
-## Autor
-GuilhermeMth
